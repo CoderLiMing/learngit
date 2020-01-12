@@ -1,1 +1,1 @@
-fix bug on bug branch
+Hi, this a sample example to learn git!
